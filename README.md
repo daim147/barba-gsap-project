@@ -1,6 +1,6 @@
 # Barba.js with GreenSock
 
-![Barba.js and GSAP](../assets/img_barba-js-gsap.png)
+# <a href = 'https://daim-barba-gsap.surge.sh/'> Live Demo </a>
 
 Learn how to build JavaScript page transitions using [Barba.js](https://barba.js.org/) and [GreenSock](https://greensock.com/?ref=7856eb).
 
@@ -25,4 +25,5 @@ Create a production ready build:
 ```
 npm run build
 ```
+
 # barba-gsap-project
